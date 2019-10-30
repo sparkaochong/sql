@@ -1,0 +1,5 @@
+name,year,month,day,sex,email
+Fred,1980,6,20,MALE,fred@example.com
+Jane,1990,7,15,FEMALE,jane@example.com
+George,1991,8,13,MALE,george@example.com
+Bob,2000,9,12,MALE,bob@example.com

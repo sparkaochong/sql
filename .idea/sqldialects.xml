@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/10_分组聚合.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/11_子查询.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/12_综合查询.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/13_DML.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/14_事务.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/15_锁.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/16_DDL.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/17_完整性约束.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/18_序列.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/19_伪列.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/1_数据源介绍.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/20_索引.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/21_视图.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/sql/2_简单查询一.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/3_简单查询二.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/4_简单查询三.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/5_限定查询一.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/6_排序查询.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/7_单行函数.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/8_多表查询.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/9_聚合函数.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/SQL测试试卷.sql" dialect="Oracle" />
+  </component>
+</project>
