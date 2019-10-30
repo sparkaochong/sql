@@ -22,6 +22,6 @@
     <file url="file://$PROJECT_DIR$/sql/7_单行函数.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/sql/8_多表查询.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/sql/9_聚合函数.sql" dialect="Oracle" />
-    <file url="file://$PROJECT_DIR$/sql/SQL测试试卷.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/sql/SQL测试.sql" dialect="Oracle" />
   </component>
 </project>
